@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third year computer science student with a passion for artificial intelligence and hyper realistic graphics. I have experience building web applications and am always looking to expand my skills and knowledge in these areas. As a student, I am dedicated to staying up-to-date with the latest technologies and techniques in the field, and I am excited to contribute to and learn from the open source community on GitHub. Follow me on GitHub to see my projects and keep up with my learning journey.
+I am a final year computer science student with a passion for artificial intelligence and hyper realistic graphics. I have experience building web applications and am always looking to expand my skills and knowledge in these areas. As a student, I am dedicated to staying up-to-date with the latest technologies and techniques in the field, and I am excited to contribute to and learn from the open source community on GitHub. Follow me on GitHub to see my projects and keep up with my learning journey.
 
 
 ## 🌐 Socials:
